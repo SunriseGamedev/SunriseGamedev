@@ -1,6 +1,6 @@
 ### Hi~ 歡迎來到亮曦工作室👋
 <h4>來自北科大的我們因為共同的興趣與理想而匯聚於此，SunriseStudio亮曦工作室成立於2021年，是一個七人的小團隊</h4>
-<h2>遊戲介紹:</h2>
+<h2>遊戲介紹-Dreaming in the sky</h2>
 <h7>夏日午後，你慵懶的躺在樹邊休息，漸漸感受到睏意襲來...睜開眼睛，你背後的大樹已經變成櫻花樹，身旁的景色猶如仙境般美麗。 抬頭望去，天空已變得如極光般絢麗。不知所措的你站起身來，準備探索夢境中的世界.... 這是一款由第一人稱視角的空島沙盒類遊戲。本遊戲是由Unity3D引擎打造，使用Universal Render Pipline做渲染。並採用Low Poly的視覺效果，使得遊戲畫面變得更加圓潤可愛。 在遊戲裡，你可以盡情的探索未知的島嶼，在古老的遺跡裡探險，在危險的火山上拿取珍貴資源，在滿是礦石的島上與石巨人一戰... 冒險者，用你的雙手打造屬於自己的武器，向著最終的真相而去吧!</h7>
 <!--
 **SunriseGamedev/SunriseGamedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
